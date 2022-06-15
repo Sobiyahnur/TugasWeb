@@ -11,7 +11,7 @@
 	 <th>Pembayaran</th>
 	 <th>Transfer</th>
 	 <th>HOT PROMO</th>
-
+ 
 	 </tr>
 	 </thead>
 	 <tbody>
